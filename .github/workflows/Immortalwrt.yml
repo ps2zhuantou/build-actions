@@ -32,6 +32,9 @@ on:
         options:
           - 'x86_64'
           - 'aarch64'
+          - 'r6800'
+          - 'cr660x'
+          - 'newifi3'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
