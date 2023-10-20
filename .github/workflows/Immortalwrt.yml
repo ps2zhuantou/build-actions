@@ -32,7 +32,7 @@ on:
         options:
           - 'x86_64'
           - 'aarch64'
-          - 'rax3000m'
+          - 'mt7621'
           - 'q30pro'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
