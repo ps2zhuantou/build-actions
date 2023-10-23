@@ -34,6 +34,7 @@ on:
           - 'aarch64'
           - 'mt7621'
           - 'mt798x'
+          - 'q30pro'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
