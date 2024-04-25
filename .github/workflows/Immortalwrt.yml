@@ -33,6 +33,8 @@ on:
           - 'x86_64'
           - 'aarch64'
           - 'mt7981'
+          - 'q30pro'
+          - 'rax3000m-emmc'
           - 'r6800'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
