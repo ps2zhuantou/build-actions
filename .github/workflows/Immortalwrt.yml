@@ -36,6 +36,7 @@ on:
           - 'q30pro'
           - 'rax3000m-emmc'
           - 'r6800'
+          - 'ap8220'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
         required: true
